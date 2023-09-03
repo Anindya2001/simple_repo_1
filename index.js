@@ -67,7 +67,7 @@ function makeSound(key) {
       break;
 
     case ("s"):
-      var tom1 = new Audio("sounds/tom-1.mp3");
+      var tom1 = new Audio("sounds/track1.mpeg");
       tom1.play();
       break;
 
@@ -102,7 +102,7 @@ function makeSound(key) {
       break;
     
     case "t":
-      var tom1 = new Audio("sounds/tom-1.mp3");
+      var tom1 = new Audio("sounds/track2.mpeg");
       tom1.play();
       break;
 
