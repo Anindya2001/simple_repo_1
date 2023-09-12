@@ -27,7 +27,7 @@ function makeSound(key) {
 
   switch (key) {
     case ("S"):
-      var tom1 = new Audio("sounds/track1.mpeg");
+      var tom1 = new Audio("sounds/tom-1.mp3");
       tom1.play();
       break;
 
@@ -62,12 +62,12 @@ function makeSound(key) {
       break;
     
     case "T":
-      var tom1 = new Audio("sounds/track2.mpeg");
+      var tom1 = new Audio("sounds/tom-2.mp3");
       tom1.play();
       break;
 
     case ("s"):
-      var tom1 = new Audio("sounds/track1.mpeg");
+      var tom1 = new Audio("sounds/tom-1.mp3");
       tom1.play();
       break;
 
@@ -102,7 +102,7 @@ function makeSound(key) {
       break;
     
     case "t":
-      var tom1 = new Audio("sounds/track2.mpeg");
+      var tom1 = new Audio("sounds/tom-1.mp3");
       tom1.play();
       break;
 
